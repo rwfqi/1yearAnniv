@@ -1,46 +1,44 @@
-# AnniversaryCard! - [Coder's way of wishing](https://smilegupta.github.io/AnniversaryCard)
-[![Happy WedLocks Day](https://img.shields.io/badge/Happy-WedLocksDay-dodgerblue.svg?style=for-the-badge)](https://smilegupta.github.io/AnniversaryCard/) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://smilegupta.github.io/AnniversaryCard/)
-> **99.9% of people just say "Happy Anniversary" to each other over Social Networking Sites like [Facebook](https://www.facebook.com/smilegupta.1998) and [Twitter](https://twitter.com/gupta_smile_) with the same 15 predictable letters. Why not say it with `code`? If you're a developer you already understand it!**
+# 💌 1stAnniversary Card – A Coder's Love Letter in HTML & Heart  
+[![Happy Anniversary](https://img.shields.io/badge/Happy-Anniversary-f26b38?style=for-the-badge)](https://your-deployed-url.com)  
+[![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://your-deployed-url.com)
 
-[![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://smilegupta.github.io/AnniversaryCard/)
+> 💬 *Why just say "Happy Anniversary" when you can **code** it?*  
+> Here's my little digital love letter — crafted with HTML, CSS, and a whole lotta love.  
+> Because sometimes, "I love you" deserves a full `<div>` of dedication.
 
-### Designing a [website](https://smilegupta.github.io/AnniversaryCard/) to Wish Somebody on Their WedLocks day is a amazing Idea!
+[![not a bug it's a feature](https://forthebadge.com/images/badges/built-with-love.svg)](https://your-deployed-url.com)  
+[![for my person](https://forthebadge.com/images/badges/made-with-html.svg)](https://your-deployed-url.com)
 
-> #### Click [here](https://smilegupta.github.io/AnniversaryCard/) to view live demo!
+---
 
-## Technology Stack Used
+## 🌹 What Is This?
 
-![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
-![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
-![JavaScript](https://img.shields.io/badge/frontend-javascript-yellow.svg?logo=javascript&style=flat-square)
+It’s a personalized interactive anniversary card built in vanilla HTML/CSS/JS to celebrate **1 year of love** — complete with a flipping card, Polaroid-style memories, and heart-melting captions 💞
 
-- Front End - **HTML**, **CSS**, **JavaScript**
+## 🛠️ Tech Stack
 
-### Need help?
+![HTML](https://img.shields.io/badge/HTML-🧡-orange?style=flat-square&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS-💚-green?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-💛-yellow?style=flat-square&logo=javascript)
 
-```
+- **Layout**: HTML
+- **Styling**: CSS  
+  + Google Fonts  
+  + Animate.css  
+  + Balloon.css  
+- **Interaction**: Vanilla JavaScript (for slideshow, card flipping, and transitions)
 
-  if (needHelp === true) {
-     var emailId = "guptamiley3012@gmail.com";
-     // email is the best way to reach out to me.
-     sendEmail(emailId);
-  }
+---
 
-```
+## 💬 Wanna Make One for Your Own Boo?
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smilegupta.1998&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/smilegupta.1998)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@gupta_smile_&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/gupta_smile_/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@gupta_smile_&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/gupta_smile_)
+Fork it.  
+Customize the text, image URLs, fonts, and caption.  
+Deploy it to GitHub Pages or Vercel.  
+💡 Boom. Love letter 2.0.
 
-***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/AnniversaryCard/) this repo.***
-
------
-
-```
-
-  if (isAwesome) {
-    // thanks in advance :p xoxo
-    starThisRepository();
-  }
-
-```
-
-******
+```js
+if (youNeedHelp) {
+  const email = "your.email@example.com";
+  sendEmail(email);
+}
