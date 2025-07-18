@@ -1,6 +1,6 @@
 # 💌 1stAnniversary Card – A Coder's Love Letter in HTML & Heart  
 [![Happy Anniversary](https://img.shields.io/badge/Happy-Anniversary-f26b38?style=for-the-badge)](https://your-deployed-url.com)  
-[![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://your-deployed-url.com)
+[![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)]([https://your-deployed-url.com](https://rwfqi.github.io/1yearAnniv/))
 
 > 💬 *Why just say "Happy Anniversary" when you can **code** it?*  
 > Here's my little digital love letter — crafted with HTML, CSS, and a whole lotta love.  
